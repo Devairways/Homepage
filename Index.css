@@ -1,0 +1,23 @@
+body{
+	background-color: #657C8E;
+	max-width: 100%;
+	font-size: 2em;
+}
+#Headpic{
+	max-height: 500px;
+	margin-left: auto;
+}
+nav{
+	background-color: #ffffff;
+	padding: 20px 0;
+	width: 100%;
+	text-align: center;
+}
+a{
+	text-decoration: none;
+	text-transform: capitalize;
+	color: #657C8E;
+	
+	padding: 0 25px;
+	
+}
