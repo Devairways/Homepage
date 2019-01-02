@@ -83,7 +83,6 @@ input[type="submit"]{
 nav{
 	color: #27586B;
 	background-color: white;
-	padding-bottom: 20px;
 	grid-column: span 4;
 	grid-row: 1/2;
 	display: flex;
@@ -104,18 +103,21 @@ header img{
 ul{
 	display: inline-flex;
 	justify-content: space-between;
+
 }
 li{
 	margin: 15px;
 	padding: 15px;
 	list-style: none;
 	font-size:30px;
+	transition: all 0.5s ease-out;
 }
 #nav-list li:hover{
 	background-color: #f7f7f7;
 	border: 2px solid #27586B;
 	border-radius: 5px;
 	margin: 0;	
+	padding-top: 30px;
 }
 #foot{
 	grid-column: span 4;
