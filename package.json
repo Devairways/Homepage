@@ -1,0 +1,27 @@
+{
+  "name": "homepage",
+  "version": "1.0.0",
+  "description": "A company Website",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "live-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Devairways/Homepage.git"
+  },
+  "keywords": [
+    "Company",
+    "template"
+  ],
+  "author": "R.Heeffer",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Devairways/Homepage/issues"
+  },
+  "homepage": "https://github.com/Devairways/Homepage#readme",
+  "dependencies": {
+    "live-server": "^1.2.1"
+  }
+}
